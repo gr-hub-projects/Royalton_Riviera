@@ -1,7 +1,16 @@
 {
   "templates": {
     "type": "JSON",
-    "content": [],
+    "content": [
+      {
+        "id": "362K63",
+        "Flight": "DL0620",
+        "PickupDate": "2025-12-09",
+        "PickupTime": "10:00",
+        "HotelName": "Royalton Hideaway Riviera Cancun ",
+        "HotelNumber": 7747
+      }
+    ],
     "source": {
       "data_source": "Google Sheets (Private)",
       "update_frequency": "Automated"
