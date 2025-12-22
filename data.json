@@ -395,14 +395,6 @@
         "HotelNumber": 18001
       },
       {
-        "id": "9874SF004532",
-        "Flight": "NOT CONFIRMED",
-        "PickupDate": "2025-12-22",
-        "PickupTime": "⚠️",
-        "HotelName": "Royalton Riviera Cancun",
-        "HotelNumber": 18001
-      },
-      {
         "id": "9874SF967778",
         "Flight": "DL2013",
         "PickupDate": "2025-12-22",
@@ -412,7 +404,7 @@
       },
       {
         "id": "9874SF967765",
-        "Flight": "DL198",
+        "Flight": "CXL000",
         "PickupDate": "2025-12-22",
         "PickupTime": "08:25",
         "HotelName": "Royalton Riviera Cancun",
